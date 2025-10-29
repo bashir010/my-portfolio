@@ -87,6 +87,11 @@ nav {
   transition: 0.3s;
 }
 
+.yozish {
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
 .btn:hover {
   background: #facc15;
   color: #0f172a;
@@ -139,3 +144,4 @@ footer {
   padding: 15px 0;
   font-size: 0.9rem;
 }
+
